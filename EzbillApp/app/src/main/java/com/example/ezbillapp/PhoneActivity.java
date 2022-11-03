@@ -27,6 +27,7 @@ public class PhoneActivity extends AppCompatActivity {
         blue_button = findViewById(R.id.blue_button);
         group_btn = findViewById(R.id.group_button);
 
+
         logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
